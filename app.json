@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e66b5d32-868d-4b8a-ae68-beba77668b29"
+      }
+    },
+    "owner": "amanhamdan"
   }
 }
